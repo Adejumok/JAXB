@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<employee>
+    <name>Lasisi OmoIya-Eleko</name>
+    <phone-number>
+        <work>08134562834</work>
+        <home>09148562849</home>
+    </phone-number>
+    <address>
+        <city>Akoka</city>
+        <house-no>No 31</house-no>
+        <postal-code>993209-38</postal-code>
+        <state>Lagos</state>
+    </address>
+    <department>
+        <name>Technology</name>
+        <manager>
+            <name>Buga Olori</name>
+            <phone-number>
+                <work>08134562834</work>
+            </phone-number>
+        </manager>
+    </department>
+</employee>

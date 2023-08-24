@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<student>
+    <course>
+        <course-code>101</course-code>
+        <course-name>Java</course-name>
+    </course>
+    <course>
+        <course-code>102</course-code>
+        <course-name>Python</course-name>
+    </course>
+    <firstName>Kayode</firstName>
+    <lastName>Godwin</lastName>
+    <sex>Male</sex>
+</student>

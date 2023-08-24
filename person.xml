@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<person>
+    <name>Dami</name>
+    <address>Bariga</address>
+    <course>
+        <course-code>201</course-code>
+        <course-name>Java</course-name>
+    </course>
+    <course>
+        <course-code>202</course-code>
+        <course-name>Python</course-name>
+    </course>
+</person>
